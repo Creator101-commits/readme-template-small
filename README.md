@@ -12,8 +12,11 @@
 
 Brief one paragraph statement about your product and what it does.
 
+## Usage
+
+Explain how to use your project here. Create subsections for different features or workflows so users can find what they need quickly.
+
 ## Installation
-[(Back to top)](#table-of-contents)
 
 > **Note**: For longer README files, a "Back to top" link like the one above makes it easy to navigate.
 
@@ -31,17 +34,11 @@ npm install my-module --save
 npm install my-module --save
 ```
 
-## Usage
-[(Back to top)](#table-of-contents)
-
-Explain how to use your project here. Create subsections for different features or workflows so users can find what they need quickly.
-
 ```sh
 my-module --help
 ```
 
 ## Development
-[(Back to top)](#table-of-contents)
 
 Instructions for setting up a local development environment so you can build and run the project from source.
 
@@ -55,7 +52,6 @@ npm run dev
 ```
 
 ## Contributing
-[(Back to top)](#table-of-contents)
 
 Contributions are welcome. To propose a change:
 
@@ -68,12 +64,10 @@ Contributions are welcome. To propose a change:
 Please make sure tests pass and the code is formatted before opening a PR.
 
 ## License
-[(Back to top)](#table-of-contents)
 
 Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
 
 ## Meta
-[(Back to top)](#table-of-contents)
 
 Your Name – [@YourTwitter](https://twitter.com/YourTwitter) – YourEmail@example.com
 
